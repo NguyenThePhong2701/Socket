@@ -1,4 +1,4 @@
-package exe;
+package exee;
 
 import javax.swing.*;
 import java.awt.*;
